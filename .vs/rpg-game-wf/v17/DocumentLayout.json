@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|c:\\users\\support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\mainfightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\mainfightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\mainfightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\mainfightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\playersmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\playersmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\chooselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\chooselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\fightmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\fightmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\startbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\chooselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\chooselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\startbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74DDBD05-CA32-4770-B7D6-A211FB14D184}|rpg-game-wf\\rpg-game-wf.csproj|solutionrelative:rpg-game-wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayersMoves.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\PlayersMoves.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\PlayersMoves.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\PlayersMoves.cs",
+              "RelativeToolTip": "rpg-game-wf\\PlayersMoves.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:13:28.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFightForm.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\MainFightForm.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\MainFightForm.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\MainFightForm.cs",
+              "RelativeToolTip": "rpg-game-wf\\MainFightForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:09:53.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainFightForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\MainFightForm.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\MainFightForm.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\MainFightForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "rpg-game-wf\\MainFightForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:46:17.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FightManager.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\FightManager.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\FightManager.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\FightManager.cs",
+              "RelativeToolTip": "rpg-game-wf\\FightManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:41:57.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FightMain.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\FightMain.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\FightMain.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\FightMain.cs",
+              "RelativeToolTip": "rpg-game-wf\\FightMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:40:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChooseLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\ChooseLocation.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\ChooseLocation.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\ChooseLocation.cs",
+              "RelativeToolTip": "rpg-game-wf\\ChooseLocation.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:20:56.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChooseLocation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\ChooseLocation.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\ChooseLocation.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\ChooseLocation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "rpg-game-wf\\ChooseLocation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:20:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\StoreInfo.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\StoreInfo.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\StoreInfo.cs",
+              "RelativeToolTip": "rpg-game-wf\\StoreInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:09:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "startBattle.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startBattle.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\startBattle.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startBattle.cs",
+              "RelativeToolTip": "rpg-game-wf\\startBattle.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:47:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "startBattle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startBattle.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\startBattle.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\startBattle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "rpg-game-wf\\startBattle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:35:02.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\Form1.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\Form1.cs",
+              "RelativeToolTip": "rpg-game-wf\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:35:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\Form1.cs",
+              "RelativeDocumentMoniker": "rpg-game-wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\Support\\source\\repos\\rpg-game-wf\\rpg-game-wf\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "rpg-game-wf\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T16:11:59.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
